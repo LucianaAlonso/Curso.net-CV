@@ -6,3 +6,16 @@
 .sub-title-cv {
     font-style: oblique;
 }
+
+.personal-data-cv {
+    border: ridge;
+    padding: 10px;
+    border-color: teal;  
+}
+
+.sub-interest-data-cv {
+    display: inline;
+    padding: 10px;
+    border: double;
+    border-color: teal;
+}
