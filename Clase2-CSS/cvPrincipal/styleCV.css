@@ -5,12 +5,15 @@
 
 .sub-title-cv {
     font-style: oblique;
+    font-family: 'Quicksand', sans-serif;
 }
 
 .personal-data-cv {
     border: ridge;
     padding: 10px;
     border-color: teal;  
+    display: inline-block;
+    font-family: 'Quicksand', sans-serif;
 }
 
 .sub-interest-data-cv {
@@ -18,4 +21,12 @@
     padding: 10px;
     border: double;
     border-color: teal;
+}
+
+.form-content-cv {
+    border: double;
+    border-color: teal;
+    font-family: 'Quicksand', sans-serif;
+    display: inline-block;
+    padding: 10px;
 }
